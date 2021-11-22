@@ -1,0 +1,1 @@
+Application sınıfındaki @Bean anatosyanları yorum satırından kaldırınca uygulama tomcat üzerinden hata veriyor
